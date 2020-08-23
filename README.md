@@ -7,6 +7,7 @@ These scripts were used for the preparation of the paper: "Modular barcode beads
 If you find these scripts useful, please cite DAb-seq, and Gelbeads
 
 Dependencies:
-Cutadapt
-Kallisto/bustools
+Cutadapt,
+Kallisto/bustools,
+DAbseq
 
